@@ -7,6 +7,6 @@ I'm Anon769 (he/they) - I'm a fullstack HTML developer, but I also develop many 
 <p>
   <img src="https://img.shields.io/badge/status-AFK_touching_grass-yellowgreen?style=flat-square" alt="Grass" />
   <img src="https://img.shields.io/badge/segmentation_fault-core_dumped-red?style=flat-square&logo=c&logoColor=white" alt="Segfault" />
-  <img src="https://img.shields.io/badge/status-fixing_bugs_i_created-critical?style=flat-square" alt="Bugs" />
+  <img src="https://img.shields.io/badge/bugs-hunting_my_own_mistakes-critical?style=flat-square&logo=git&logoColor=white" alt="Bugs" />
   <img src="https://img.shields.io/badge/compiling-with_hope_and_prayers-red?style=flat-square&logo=c&logoColor=white" alt="Compiling" />
 </p>
