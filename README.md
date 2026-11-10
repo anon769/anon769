@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-I'm Anon769 (he/they) - I'm a fullstack HTML developer, but I also develop many programs in C, C++, and Python.
+I'm Anon769 (he/him) - I'm a fullstack HTML developer, but I also develop many programs in C, C++, and Python.
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,vscode,html,css,js,typescript,nodejs,svg)](https://skillicons.dev)
 
